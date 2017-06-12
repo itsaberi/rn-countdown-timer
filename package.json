@@ -1,0 +1,26 @@
+{
+  "name": "rn-countdown-timer",
+  "version": "1.0.1",
+  "description": "Countdown timer module for react native",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o-vp-v/rn-countdown-timer.git"
+  },
+  "keywords": [
+    "react",
+    "react-native"
+  ],
+  "author": "Vishnuprasad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/o-vp-v/rn-countdown-timer/issues"
+  },
+  "homepage": "https://github.com/o-vp-v/rn-countdown-timer#readme",
+  "dependencies": {
+    "react-native-background-timer": "^1.0.2"
+  }
+}
