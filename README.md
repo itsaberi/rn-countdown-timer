@@ -28,9 +28,9 @@ install using the following command:
 
 import the module into your app file
 
-```var RNTimer = require('rn-countdown-timer'); //es5
+```var RNTimer = require('rn-countdown-timer'); //es5```
 
-import RNTimer from "rn-countdown-timer"; //es6```
+```import RNTimer from "rn-countdown-timer"; //es6```
 
 ## License
 
