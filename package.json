@@ -1,6 +1,6 @@
 {
   "name": "rn-countdown-timer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Countdown timer module for react native",
   "main": "lib/index.js",
   "scripts": {
