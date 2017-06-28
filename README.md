@@ -22,9 +22,15 @@ I am a front end developer working on various react native projects. This module
 
 ## Installation
 
-install using the following command:
+install using the following commands:
 
 ```npm i -S rn-countdown-timer```
+
+```react-native link react-native-background-timer```
+
+## for IOS
+
+Open the project in XCode and enable the Background working capability of the app. In that, you will find the Background fetch option. Check it and restart the app.
 
 import the module into your app file
 
