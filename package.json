@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/o-vp-v/rn-countdown-timer#readme",
   "dependencies": {
-    "react-native-background-timer": "^1.0.2",
     "pretty-ms": "^2.1.0",
+    "react-native-background-timer": "^1.0.2"
   }
 }
